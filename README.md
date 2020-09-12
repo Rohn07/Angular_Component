@@ -1,3 +1,7 @@
+# WebLink
+
+You can see the templete on `https://angular-component.netlify.app/`
+
 # Component
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
