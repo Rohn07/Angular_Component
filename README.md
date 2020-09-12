@@ -1,6 +1,6 @@
 # WebLink
 
-You can see the templete on `https://angular-component.netlify.app/`
+You can see the templete on https://angular-component.netlify.app/
 
 # Component
 
